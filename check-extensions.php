@@ -1,3 +1,4 @@
+
 <?php include 'includes/header.php' ?>
 
 <p><b>GD installed: </b>
